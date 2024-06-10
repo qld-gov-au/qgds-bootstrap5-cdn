@@ -1,0 +1,116 @@
+{
+	"default": {
+		"variant": "tag-default",
+		"tagItems": [
+			{
+				"id": "One",
+				"content": "Tag text"
+			},
+			{
+				"id": "Two",
+				"content": "Tag text"
+			},
+			{
+				"id": "Three",
+				"content": "Tag text"
+			},
+			{
+				"id": "Four",
+				"content": "Tag text"
+			}
+		]
+	},
+	"large": {
+		"variant": "",
+		"tagItems": [
+			{
+				"id": "One",
+				"content": "Tag text",
+				"classes": "tag-large"
+			},
+			{
+				"id": "Two",
+				"content": "Tag text",
+				"classes": "tag-large"
+			},
+			{
+				"id": "Three",
+				"content": "Tag text",
+				"classes": "tag-large"
+			}
+		]
+	},
+	"action": {
+		"variant": "",
+		"tagItems": [
+			{
+				"id": "One",
+				"content": "<a href='javascript:void(0)'>Tag text</a>",
+				"classes": "tag-link"
+			},
+			{
+				"id": "Two",
+				"content": "<a href='javascript:void(0)'>Tag text</a>",
+				"classes": "tag-link"
+			},
+			{
+				"id": "Three",
+				"content": "<a href='javascript:void(0)'>Tag text</a>",
+				"classes": "tag-link"
+			}
+		]
+	},
+	"dark": {
+		"classes": "",
+		"variant": "tag-dark",
+		"tagItems": [
+			{
+				"id": "One",
+				"content": "Tag text"
+			},
+			{
+				"id": "Two",
+				"content": "Tag text"
+			},
+			{
+				"id": "Three",
+				"content": "Tag text"
+			}
+		]
+	},
+	"info": {
+		"variant": "",
+		"tagItems": [
+			{
+				"id": "One",
+				"content": "Tag text",
+				"classes": "tag-info"
+			},
+			{
+				"id": "Two",
+				"content": "Tag text",
+				"classes": "tag-info"
+			},
+			{
+				"id": "Three",
+				"content": "Tag text",
+				"classes": "tag-info"
+			}
+		]
+	},
+	"filter": {
+		"variant": "",
+		"tagItems": [
+			{
+				"id": "One",
+				"content": "Policies and procedures<button class='close-icon'><span class='visually-hidden'>Policies and procedures</span></button>",
+				"classes": "tag-large"
+			},
+			{
+				"id": "Two",
+				"content": "Publications<button class='close-icon'><span class='visually-hidden'>Publications</span></button>",
+				"classes": "tag-large"
+			}
+		]
+	}
+}
