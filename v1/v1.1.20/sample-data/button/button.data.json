@@ -1,0 +1,10 @@
+{
+	"variantClass": "btn-primary",
+	"islink": true,
+	"isdisabled": false,
+	"iconClass": "fa-solid fa-arrow-up-right-from-square",
+	"iconPosition": "leading",
+	"label": "Call to action",
+	"href": "https://google.com",
+	"target": "_blank"
+}
