@@ -1,0 +1,10 @@
+{
+	"variantClass": "btn-primary",
+	"islink": true,
+	"isdisabled": false,
+	"iconClass": "qld-icon-external-link",
+	"iconPosition": "leading",
+	"label": "Call to action",
+	"href": "https://google.com",
+	"target": "_blank"
+}
