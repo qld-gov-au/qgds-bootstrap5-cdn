@@ -1,0 +1,25 @@
+{
+  "groupid": "accordion-group-1",
+  "toggleAll": true,
+  "headingTag": "h2",
+  "accordionItems": [
+    {
+      "id": "One",
+      "title": "Lorem ipsum",
+      "expanded": true,
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum efficitur egestas.</p><p>Aenean sed pretium mauris. Quisque euismod in nisl et consequat.</p> "
+    },
+    {
+      "id": "Two",
+      "title": "Cupcake ipsum",
+      "expanded": false,
+      "content": "<p>Cupcake apple pie fairy bread candy pastry sweet cookie ice cream pie marshmallow chocolate ganache lamington, carrot cake caramel souffle scones lorem ipsum fruitcake jelly-o pavlova toffee.</p><p>Gelato gingerbread pudding shortbread sesame snaps eclairs, praline tiramisu macaron candy canes gummi bears lollipop, croissant apple strudel marzipan donut baklava vanilla slice.</p><p>Sweet roll liquorice brownie cotton candy jelly tart chocolate mousse, gingerbread bundt cake wafers biscuits, vanilla bean sorbet churro pastry.</p>"
+    },
+    {
+      "id": "Three",
+      "title": "Dinosaur ipsum",
+      "expanded": false,
+      "content": "<p>Dinosaur Tyrannosaurus rex Triceratops Stegosaurus. Velociraptor Brachiosaurus Diplodocus Pterodactyl Allosaurus Spinosaurus Ankylosaurus. Parasaurolophus Iguanodon Carnotaurus Stegosaurus Compsognathus Coelophysis lorem ipsum.</p><p>Giganotosaurus Apatosaurus Argentinosaurus Dilophosaurus, Pachycephalosaurus Utahraptor Suchomimus Troodon Therizinosaurus Baryonyx Maiasaura Protoceratops.</p>"
+    }
+  ]
+}
